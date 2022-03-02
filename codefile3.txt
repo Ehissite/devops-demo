@@ -1,0 +1,2 @@
+this file2 is written using bash
+a linux machine has been added
