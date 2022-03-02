@@ -1,1 +1,2 @@
-this file is written using bash
+this file is written using linux
+and there are more features running currently
